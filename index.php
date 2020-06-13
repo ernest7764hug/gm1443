@@ -1,4 +1,4 @@
 <?php
-header("Location: https://new-card-activate.wixsite.com/new-card-activate");
+header("Location: https://www.sma-australia.com.au/home-systems/residential-solutions.html");
 die();
 ?>
